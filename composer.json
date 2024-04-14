@@ -1,0 +1,23 @@
+{
+  "name": "tarohida/php-sunaba",
+  "description": "tool kit",
+  "minimum-stability": "stable",
+  "keywords": ["tarohida"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Taro Hida",
+      "email": "sk8trou@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tarohida\\Sunaba\\": "src/Tarohida/Sunaba/"
+    }
+  },
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
