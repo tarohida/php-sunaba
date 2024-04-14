@@ -15,6 +15,11 @@
       "Tarohida\\Sunaba\\": "src/Tarohida/Sunaba/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
   "require": {
   },
   "require-dev": {
