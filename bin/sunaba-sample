@@ -1,0 +1,9 @@
+#!/usr/bin/php
+<?php
+require_once __DIR__ . '/../vendor/autoload.php';
+
+use Tarohida\Sunaba\Sample;
+use Tests\Tarohida\Sunaba\SampleTest;
+
+echo Sample::sampleFunc() . PHP_EOL;
+echo SampleTest::thisIsNotTestFunction() . PHP_EOL;

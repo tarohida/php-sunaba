@@ -7,4 +7,9 @@ class Sample
     {
         return true;
     }
+
+    public static function sampleFunc(): string
+    {
+        return "You called sample function.";
+    }
 }
