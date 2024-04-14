@@ -10,6 +10,9 @@
       "email": "sk8trou@gmail.com"
     }
   ],
+  "config": {
+    "bin-dir": "bin"
+  },
   "autoload": {
     "psr-4": {
       "Tarohida\\Sunaba\\": "src/Tarohida/Sunaba/"
