@@ -13,6 +13,9 @@
   "config": {
     "bin-dir": "bin"
   },
+  "bin": [
+    "bin/sunaba"
+  ],
   "autoload": {
     "psr-4": {
       "Tarohida\\Sunaba\\": "src/Tarohida/Sunaba/"
