@@ -27,6 +27,7 @@
     }
   },
   "require": {
+    "composer-runtime-api": "^2.2"
   },
   "require-dev": {
     "phpunit/phpunit": "*"
